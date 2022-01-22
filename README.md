@@ -1,2 +1,2 @@
 # This is my ReadMe
-Put any extra information or notes here.
+Submitted by Cole Yant, Jose Murillo, and Max Sestero
