@@ -1,2 +1,3 @@
 # This is my ReadMe
-Put any extra information or notes here.
+Lab 2 Phase 2 
+Authors: Max Sestero, Cole Yant, Julian Murillo
